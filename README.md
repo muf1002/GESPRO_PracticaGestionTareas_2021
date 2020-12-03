@@ -7,6 +7,6 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 - [Marcos Ubierna Fernández](https://github.com/muf1002)
 
-- [Pablo Zarzosa Buitrago](https://github.com/pzb1001)
-
 - [Iñigo Sanz Delgado](https://github.com/isd1002)
+
+- [Pablo Zarzosa Buitrago](https://github.com/pzb1001)
